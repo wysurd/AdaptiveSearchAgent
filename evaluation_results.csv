@@ -1,0 +1,9 @@
+scenario,mode,reacquired,reacquisition_seconds,enemy_tiles_traveled,mean_true_tile_probability,top_tile_accuracy
+nearby_hide,baseline,0,,3,,
+nearby_hide,probabilistic,1,9.75,39,0.004383517130024552,0.0
+cross_upper_rooms,baseline,0,,3,,
+cross_upper_rooms,probabilistic,0,,48,0.0053892777045695985,0.0
+move_to_lower_rooms,baseline,1,0.5,2,,
+move_to_lower_rooms,probabilistic,1,3.0,12,0.0034630752063815815,0.0
+return_toward_last_seen,baseline,1,0.5,2,,
+return_toward_last_seen,probabilistic,0,,48,0.002258196008198106,0.0

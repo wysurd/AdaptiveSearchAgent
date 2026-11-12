@@ -1,0 +1,13 @@
+behavior,mode,scenarios,reacquired,reacquisition_rate,median_seconds_successes_only,mean_capped_search_seconds,mean_enemy_tiles_traveled
+all,baseline,40,40,1.0,0.375,0.63125,2.475
+all,probabilistic,40,40,1.0,0.375,0.625,2.5
+all,hybrid_no_commitment,40,40,1.0,0.375,0.625,2.5
+all,hybrid,40,40,1.0,0.375,0.625,2.5
+hide,baseline,20,20,1.0,0.5,0.65,2.6
+hide,probabilistic,20,20,1.0,0.5,0.65,2.6
+hide,hybrid_no_commitment,20,20,1.0,0.5,0.65,2.6
+hide,hybrid,20,20,1.0,0.5,0.65,2.6
+move,baseline,20,20,1.0,0.25,0.6125,2.35
+move,probabilistic,20,20,1.0,0.25,0.6,2.4
+move,hybrid_no_commitment,20,20,1.0,0.25,0.6,2.4
+move,hybrid,20,20,1.0,0.25,0.6,2.4

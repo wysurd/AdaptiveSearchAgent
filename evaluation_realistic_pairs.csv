@@ -1,0 +1,4 @@
+strategy,opponent,win,loss,tie
+hybrid,baseline,28,0,12
+hybrid,probabilistic,6,9,25
+hybrid,hybrid_no_commitment,5,9,26

@@ -1,0 +1,13 @@
+behavior,mode,scenarios,reacquired,reacquisition_rate,median_seconds_successes_only,mean_capped_search_seconds
+all,baseline,40,15,0.375,1.0,8.215
+all,probabilistic,40,38,0.95,1.45,3.21625
+all,hybrid_no_commitment,40,38,0.95,1.45,3.13625
+all,hybrid,40,38,0.95,1.5,3.01875
+hide,baseline,20,8,0.4,0.75,7.4725
+hide,probabilistic,20,20,1.0,1.1,1.3325
+hide,hybrid_no_commitment,20,20,1.0,1.1,1.1725
+hide,hybrid,20,20,1.0,1.2000000000000002,1.1925
+move,baseline,20,7,0.35,2.65,8.9575
+move,probabilistic,20,18,0.9,2.75,5.1
+move,hybrid_no_commitment,20,18,0.9,2.75,5.1
+move,hybrid,20,18,0.9,2.725,4.845

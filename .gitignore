@@ -1,0 +1,18 @@
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# macos
+.DS_Store
+
+# editor files
+.vscode/
+.idea/
+
+# local history
+.Rhistory
+session_results.csv
+report/*.pdf
