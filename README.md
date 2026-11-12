@@ -1,7 +1,6 @@
 # Probabilistic Enemy Search AI for a Psychological Horror Game
 
 **Author:** Nicoli Benson  
-**Course:** CSC 546/746 Artificial Intelligence, Eastern Kentucky University
 
 ## Project overview
 
